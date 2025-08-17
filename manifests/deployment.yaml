@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: Aivana
+  name: aivana
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: Aivana
+      app: aivana
   template:
     metadata:
       labels:
-        app: Aivana
+        app: aivana
     spec:
       containers:
-      - name: Aivana
+      - name: aivana
         image: tr4192/aivana:v6
         ports:
         - containerPort: 8501
