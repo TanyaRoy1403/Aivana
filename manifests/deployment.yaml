@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: Aivana
-        image: tr4192/aivana:v17
+        image: tr4192/aivana:v6
         ports:
         - containerPort: 8501
         env:
