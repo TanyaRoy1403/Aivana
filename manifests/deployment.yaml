@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: aivana
-        image: tr4192/aivana:__IMAGE_TAG__
+        image: tr4192/aivana:v15
         ports:
         - containerPort: 8501
         env:
