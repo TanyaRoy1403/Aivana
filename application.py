@@ -22,7 +22,7 @@ def main():
         st.session_state.rerun_trigger = False
         
 
-    st.title("Your Study Buddy AI...")
+    st.title("Your AI Study Buddy...")
 
     st.sidebar.header("Quiz Settings")
 
