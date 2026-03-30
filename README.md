@@ -101,5 +101,13 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repo
+```bash
+git clone https://github.com/TanyaRoy1403/Aivana.git
+cd Aivana
 
