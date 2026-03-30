@@ -6,7 +6,7 @@ An end-to-end production-ready AI system using LLMOps, Docker, Kubernetes, and C
 </p>
 
 <p align="center">
-  <img src="src/workflow.png" alt="Aivana Workflow" width="800"/>
+  <img src="src/workflow.png" alt="Aivana Workflow" width="700"/>
 </p>
 
 ## 📌 Overview
