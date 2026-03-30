@@ -106,8 +106,14 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ## 🚀 Getting Started
 
-### Clone Repo
+## 🚀 Clone Repository
+
+🔗 [Open GitHub Repo](https://github.com/TanyaRoy1403/Aivana)
+
 ```bash
 git clone https://github.com/TanyaRoy1403/Aivana.git
 cd Aivana
+pip install -r requirements.txt
+Create a .env file in the root directory
+GROQ_API_KEY=your_api_key_here
 
