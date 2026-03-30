@@ -4,10 +4,10 @@
 <p align="center">
 An end-to-end production-ready AI system using LLMOps, Docker, Kubernetes, and CI/CD.
 </p>
+
 <p align="center">
-  <img src="src/Workflow.png" alt="AIvana Architecture" width="800"/>
+  <img src="src/Workflow.png" alt="AIvana Workflow" width="800"/>
 </p>
----
 
 ## 📌 Overview
 
