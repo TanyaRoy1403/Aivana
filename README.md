@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Aivana</h1>
+<h1 align="center"> Aivana</h1>
 <h3 align="center">LLMOps-Based AI Question Generation System</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ An end-to-end production-ready AI system using LLMOps, Docker, Kubernetes, and C
   <img src="src/workflow.png" alt="Aivana Workflow" width="700"/>
 </p>
 
-## 📌 Overview
+## Overview
 
 AIvana is an end-to-end **LLMOps-based AI application** designed to generate intelligent questions using Large Language Models.
 
@@ -22,12 +22,12 @@ It follows a complete production-grade pipeline including:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 Development & Setup → Application → Versioning & Containerization → Infrastructure & Deployment → CI/CD Pipeline
 
 ---
 
-## ⚙️ Development & Setup
+## Development & Setup
 
 - **Project & API Setup** → Environment setup and API key configuration  
 - **Configuration Code** → Centralized configuration management  
@@ -39,7 +39,7 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 💻 Application
+## Application
 
 - **Main Application**
   - Entry point of the system  
@@ -48,14 +48,14 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 📦 Versioning & Containerization
+##  Versioning & Containerization
 
 - **Code Versioning** → Git & GitHub  
 - **Dockerfile** → Containerized application for consistent deployment  
 
 ---
 
-## ☁️ Infrastructure & Deployment
+##  Infrastructure & Deployment
 
 - **Kubernetes Manifests**
   - Deployment configs  
@@ -67,7 +67,7 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 🔄 CI/CD Pipeline
+## CI/CD Pipeline
 
 - **Jenkins Setup** → Automation pipeline  
 - **GitHub Integration** → Trigger builds on push  
@@ -77,7 +77,7 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 🔁 Workflow
+## Workflow
 
 1. Code pushed to GitHub  
 2. Webhook triggers Jenkins  
@@ -88,7 +88,7 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Groq API (LLM)**
@@ -104,9 +104,9 @@ Development & Setup → Application → Versioning & Containerization → Infras
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-## 🚀 Clone Repository
+## Clone Repository
 
 🔗 [Open GitHub Repo](https://github.com/TanyaRoy1403/Aivana)
 
